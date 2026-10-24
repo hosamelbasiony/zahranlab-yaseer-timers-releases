@@ -1,4 +1,4 @@
-# Zahran Lab Timer — downloads
+# Zahran Lab Timer - Yaseer LIS — downloads
 
 Laboratory timer assistant for **Zahran Labs**: it tracks every running test, alarms when a test or
 protocol step is due, and includes the clinical lab calculators.
