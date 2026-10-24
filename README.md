@@ -10,7 +10,7 @@ This repository hosts the released installers only.
 
 **[⬇ Download the latest version](https://github.com/hosamelbasiony/zahranlab-yaseer-timers-releases/releases/latest)**
 
-| File | Use it for |
+| File | Use it for | 
 |---|---|
 | `ZahranLabTimer-Setup-v….msi` | Installing on a lab PC (recommended); keeps itself up to date |
 | `ZahranLabTimer-Portable-v….zip` | Running without installing: unzip and open `ZahranLabTimer.exe` |
